@@ -1,5 +1,5 @@
-Realm+JSON ![License MIT](https://go-shields.herokuapp.com/license-MIT-blue.png)
-==========
+MCBlurredModalController ![License MIT](https://go-shields.herokuapp.com/license-MIT-blue.png)
+========================
 
 [![Badge w/ Version](https://cocoapod-badges.herokuapp.com/v/MCBlurredModalController/badge.png)](https://github.com/matthewcheok/MCBlurredModalController)
 [![Badge w/ Platform](https://cocoapod-badges.herokuapp.com/p/MCBlurredModalController/badge.svg)](https://github.com/matthewcheok/MCBlurredModalController)
