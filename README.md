@@ -37,4 +37,4 @@ On the presented controller, `blurredModalController` is available as a referenc
 
 ## License
 
-Realm+JSON is under the MIT license.
+MCBlurredModalController is under the MIT license.
